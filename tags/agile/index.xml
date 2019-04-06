@@ -1,32 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Agile on Curated list</title>
+    <title>Agile on Curated links collection</title>
     <link>https://mckjhd.github.io/pages/tags/agile/</link>
-    <description>Recent content in Agile on Curated list</description>
+    <description>Recent content in Agile on Curated links collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Apr 2019 10:39:32 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2019 09:13:29 +0000</lastBuildDate>
     
 	<atom:link href="https://mckjhd.github.io/pages/tags/agile/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Agile makes no sense</title>
-      <link>https://mckjhd.github.io/pages/post/agile-sense/</link>
-      <pubDate>Sat, 06 Apr 2019 10:39:32 +0200</pubDate>
+      <title>Agile Makes No Sense – Hacker Noon</title>
+      <link>https://mckjhd.github.io/pages/post/agile-makes-no-sense-hacker-noon/</link>
+      <pubDate>Sat, 06 Apr 2019 09:13:29 +0000</pubDate>
       
-      <guid>https://mckjhd.github.io/pages/post/agile-sense/</guid>
-      <description>&lt;p&gt;Agile makes no sense.&lt;/p&gt;</description>
+      <guid>https://mckjhd.github.io/pages/post/agile-makes-no-sense-hacker-noon/</guid>
+      <description>https://hackernoon.com/agile-makes-no-sense-c8ebbf971012
+TL;DR:
+Instead of blindly installing a bunch of artifcats, roles, tools and rituals it is better to take gradual approach by trying (and maybe failing) simple things.</description>
     </item>
     
     <item>
-      <title>The Agile Crisis</title>
-      <link>https://mckjhd.github.io/pages/post/agile-crisis/</link>
-      <pubDate>Sat, 06 Apr 2019 10:21:42 +0200</pubDate>
+      <title>The Agile Crisis — a Primer – Jan Wischweh – Medium</title>
+      <link>https://mckjhd.github.io/pages/post/the-agile-crisis-a-primer-jan-wischweh-medium/</link>
+      <pubDate>Sat, 06 Apr 2019 09:00:02 +0000</pubDate>
       
-      <guid>https://mckjhd.github.io/pages/post/agile-crisis/</guid>
-      <description>&lt;p&gt;The Agile Crisis&lt;/p&gt;</description>
+      <guid>https://mckjhd.github.io/pages/post/the-agile-crisis-a-primer-jan-wischweh-medium/</guid>
+      <description>https://medium.com/@wischweh/the-agile-crisis-2016-9fb1c2f52af5
+TL;DR:
+1. Agile is a mindset, and Scrum is a project management 2. If Scrum fails then it&#39;s wrong Scrum (no true Scrum) 3. Imbalance of power between product owners and developers 4. Software development is not an assembly line (yet?)  </description>
     </item>
     
   </channel>
