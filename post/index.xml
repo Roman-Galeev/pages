@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Curated links collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Apr 2019 09:13:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2019 23:13:26 +0000</lastBuildDate>
     
 	<atom:link href="https://mckjhd.github.io/pages/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Why do developers consider Agile development to be nonsense?</title>
+      <link>https://mckjhd.github.io/pages/post/agile-nonsense/</link>
+      <pubDate>Sat, 06 Apr 2019 23:13:26 +0000</pubDate>
+      
+      <guid>https://mckjhd.github.io/pages/post/agile-nonsense/</guid>
+      <description>https://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense
+TL;DR:</description>
+    </item>
     
     <item>
       <title>Agile Makes No Sense – Hacker Noon</title>
