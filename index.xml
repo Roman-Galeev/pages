@@ -6,10 +6,19 @@
     <description>Recent content on Curated list</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Apr 2019 10:39:32 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2019 22:04:05 +0000</lastBuildDate>
     
 	<atom:link href="https://mckjhd.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Drastically Improve your Kubernetes Deployments with Helm</title>
+      <link>https://mckjhd.github.io/pages/post/kube/</link>
+      <pubDate>Sat, 06 Apr 2019 22:04:05 +0000</pubDate>
+      
+      <guid>https://mckjhd.github.io/pages/post/kube/</guid>
+      <description>&lt;p&gt;Drastically Improve your Kubernetes Deployments with Helm&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Agile makes no sense</title>
