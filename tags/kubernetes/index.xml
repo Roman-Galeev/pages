@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Curated links collection</title>
-    <link>https://mckjhd.github.io/pages/post/</link>
-    <description>Recent content in Posts on Curated links collection</description>
+    <title>Kubernetes on Curated links collection</title>
+    <link>https://mckjhd.github.io/pages/tags/kubernetes/</link>
+    <description>Recent content in Kubernetes on Curated links collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 06 Apr 2019 22:04:05 +0000</lastBuildDate>
     
-	<atom:link href="https://mckjhd.github.io/pages/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mckjhd.github.io/pages/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

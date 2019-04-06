@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Curated list</title>
+    <title>Curated links collection</title>
     <link>https://mckjhd.github.io/pages/</link>
-    <description>Recent content on Curated list</description>
+    <description>Recent content on Curated links collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 06 Apr 2019 22:04:05 +0000</lastBuildDate>
@@ -17,25 +17,8 @@
       <pubDate>Sat, 06 Apr 2019 22:04:05 +0000</pubDate>
       
       <guid>https://mckjhd.github.io/pages/post/drastically-improve-your-kubernetes-deployments-with-helm/</guid>
-      <description>&lt;p&gt;Drastically Improve your Kubernetes Deployments with Helm&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Agile makes no sense</title>
-      <link>https://mckjhd.github.io/pages/post/agile-sense/</link>
-      <pubDate>Sat, 06 Apr 2019 10:39:32 +0200</pubDate>
-      
-      <guid>https://mckjhd.github.io/pages/post/agile-sense/</guid>
-      <description>&lt;p&gt;Agile makes no sense.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>The Agile Crisis</title>
-      <link>https://mckjhd.github.io/pages/post/agile-crisis/</link>
-      <pubDate>Sat, 06 Apr 2019 10:21:42 +0200</pubDate>
-      
-      <guid>https://mckjhd.github.io/pages/post/agile-crisis/</guid>
-      <description>&lt;p&gt;The Agile Crisis&lt;/p&gt;</description>
+      <description>https://medium.com/@aevitas/drastically-improve-your-kubernetes-deployments-with-helm-5323e7f11ef8
+TL;DR:</description>
     </item>
     
   </channel>
