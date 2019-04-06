@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Curated list</title>
-    <link>https://mckjamhed.github.io/pages/categories/</link>
+    <link>https://mckjhd.github.io/pages/categories/</link>
     <description>Recent content in Categories on Curated list</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://mckjamhed.github.io/pages/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mckjhd.github.io/pages/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
