@@ -6,10 +6,21 @@
     <description>Recent content in Security on Curated links collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Apr 2019 07:12:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2019 07:37:11 +0000</lastBuildDate>
     
 	<atom:link href="https://mckjhd.github.io/pages/tags/security/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Why Do Developers Get Password Storage Wrong</title>
+      <link>https://mckjhd.github.io/pages/post/why-do-developers-get-password-storage-wrong/</link>
+      <pubDate>Tue, 09 Apr 2019 07:37:11 +0000</pubDate>
+      
+      <guid>https://mckjhd.github.io/pages/post/why-do-developers-get-password-storage-wrong/</guid>
+      <description>https://arxiv.org/pdf/1708.08759.pdf
+TL;DR:
+Explicitly requesting security is necessary. Most studies show, that if security is not implicitly defined in the work, it will often be avoided.</description>
+    </item>
     
     <item>
       <title>A Case Study on Cryptographic Misuse in iOS Applications</title>
