@@ -6,10 +6,21 @@
     <description>Recent content on Curated links collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Apr 2019 23:13:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2019 07:12:26 +0000</lastBuildDate>
     
 	<atom:link href="https://mckjhd.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Case Study on Cryptographic Misuse in iOS Applications</title>
+      <link>https://mckjhd.github.io/pages/post/crypto-flaws/</link>
+      <pubDate>Tue, 09 Apr 2019 07:12:26 +0000</pubDate>
+      
+      <guid>https://mckjhd.github.io/pages/post/crypto-flaws/</guid>
+      <description>https://rspreitzer.github.io/publications/proc/wisec-2018-paper-1.pdf
+TL;DR:
+In their analysis they found that 82% of the 417 iOS applications analysed had at least one cryptographic flaw. Most of these related to the usage of a non-random Initalisation Vector (IV) and in the usage of constant encryption keys.</description>
+    </item>
     
     <item>
       <title>Why do developers consider Agile development to be nonsense?</title>
