@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mckjhd.github.io/pages/post/why-do-developers-get-password-storage-wrong/</loc>
+    <lastmod>2019-04-09T07:37:11+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mckjhd.github.io/pages/post/crypto-flaws/</loc>
     <lastmod>2019-04-09T07:12:26+00:00</lastmod>
   </url>
@@ -35,13 +40,13 @@
   
   <url>
     <loc>https://mckjhd.github.io/pages/</loc>
-    <lastmod>2019-04-09T07:12:26+00:00</lastmod>
+    <lastmod>2019-04-09T07:37:11+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mckjhd.github.io/pages/post/</loc>
-    <lastmod>2019-04-09T07:12:26+00:00</lastmod>
+    <lastmod>2019-04-09T07:37:11+00:00</lastmod>
     <priority>0</priority>
   </url>
   
