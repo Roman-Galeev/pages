@@ -6,10 +6,20 @@
     <description>Recent content in kubernetes on Curated links collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Apr 2019 18:12:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2019 18:24:53 +0000</lastBuildDate>
     
 	<atom:link href="https://mckjhd.github.io/pages/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Helm insecurity</title>
+      <link>https://mckjhd.github.io/pages/post/helm-insecurity/</link>
+      <pubDate>Tue, 30 Apr 2019 18:24:53 +0000</pubDate>
+      
+      <guid>https://mckjhd.github.io/pages/post/helm-insecurity/</guid>
+      <description>https://engineering.bitnami.com/articles/helm-security.html
+TL;DR:</description>
+    </item>
     
     <item>
       <title>Security as standard</title>
