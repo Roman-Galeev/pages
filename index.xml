@@ -6,10 +6,20 @@
     <description>Recent content on Curated links collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Apr 2019 07:37:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2019 18:12:51 +0000</lastBuildDate>
     
 	<atom:link href="https://mckjhd.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Security as standard</title>
+      <link>https://mckjhd.github.io/pages/post/security-as-standard/</link>
+      <pubDate>Tue, 30 Apr 2019 18:12:51 +0000</pubDate>
+      
+      <guid>https://mckjhd.github.io/pages/post/security-as-standard/</guid>
+      <description>https://medium.freecodecamp.org/security-as-standard-in-the-land-of-kubernetes-50bfad74ca16
+The aim is to require minimum developer effort and maximum automatic security: reduce network exposure, provide network segregation, use helm for consistency, distroless base images, controlled ci/cd environment.</description>
+    </item>
     
     <item>
       <title>Why Do Developers Get Password Storage Wrong</title>

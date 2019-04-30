@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kubernetes on Curated links collection</title>
+    <title>kubernetes on Curated links collection</title>
     <link>https://mckjhd.github.io/pages/tags/kubernetes/</link>
-    <description>Recent content in Kubernetes on Curated links collection</description>
+    <description>Recent content in kubernetes on Curated links collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Apr 2019 22:04:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2019 18:12:51 +0000</lastBuildDate>
     
 	<atom:link href="https://mckjhd.github.io/pages/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Drastically Improve your Kubernetes Deployments with Helm</title>
-      <link>https://mckjhd.github.io/pages/post/drastically-improve-your-kubernetes-deployments-with-helm/</link>
-      <pubDate>Sat, 06 Apr 2019 22:04:05 +0000</pubDate>
+      <title>Security as standard</title>
+      <link>https://mckjhd.github.io/pages/post/security-as-standard/</link>
+      <pubDate>Tue, 30 Apr 2019 18:12:51 +0000</pubDate>
       
-      <guid>https://mckjhd.github.io/pages/post/drastically-improve-your-kubernetes-deployments-with-helm/</guid>
-      <description>https://medium.com/@aevitas/drastically-improve-your-kubernetes-deployments-with-helm-5323e7f11ef8
-TL;DR:</description>
+      <guid>https://mckjhd.github.io/pages/post/security-as-standard/</guid>
+      <description>https://medium.freecodecamp.org/security-as-standard-in-the-land-of-kubernetes-50bfad74ca16
+The aim is to require minimum developer effort and maximum automatic security: reduce network exposure, provide network segregation, use helm for consistency, distroless base images, controlled ci/cd environment.</description>
     </item>
     
   </channel>

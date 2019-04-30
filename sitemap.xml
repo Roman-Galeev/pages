@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mckjhd.github.io/pages/</loc>
+    <lastmod>2019-04-30T18:12:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mckjhd.github.io/pages/post/</loc>
+    <lastmod>2019-04-30T18:12:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mckjhd.github.io/pages/post/security-as-standard/</loc>
+    <lastmod>2019-04-30T18:12:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mckjhd.github.io/pages/tags/</loc>
+    <lastmod>2019-04-30T18:12:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mckjhd.github.io/pages/tags/kubernetes/</loc>
+    <lastmod>2019-04-30T18:12:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mckjhd.github.io/pages/tags/security/</loc>
+    <lastmod>2019-04-30T18:12:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://mckjhd.github.io/pages/post/why-do-developers-get-password-storage-wrong/</loc>
     <lastmod>2019-04-09T07:37:11+00:00</lastmod>
   </url>
@@ -18,6 +53,12 @@
   </url>
   
   <url>
+    <loc>https://mckjhd.github.io/pages/tags/agile/</loc>
+    <lastmod>2019-04-06T23:13:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://mckjhd.github.io/pages/post/agile-makes-no-sense-hacker-noon/</loc>
     <lastmod>2019-04-06T09:13:29+00:00</lastmod>
   </url>
@@ -28,37 +69,7 @@
   </url>
   
   <url>
-    <loc>https://mckjhd.github.io/pages/tags/agile/</loc>
-    <lastmod>2019-04-06T23:13:26+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://mckjhd.github.io/pages/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mckjhd.github.io/pages/</loc>
-    <lastmod>2019-04-09T07:37:11+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mckjhd.github.io/pages/post/</loc>
-    <lastmod>2019-04-09T07:37:11+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mckjhd.github.io/pages/tags/security/</loc>
-    <lastmod>2019-04-09T07:37:11+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mckjhd.github.io/pages/tags/</loc>
-    <lastmod>2019-04-06T23:13:26+00:00</lastmod>
     <priority>0</priority>
   </url>
   
