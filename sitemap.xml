@@ -4,30 +4,19 @@
   
   <url>
     <loc>https://mckjhd.github.io/pages/</loc>
-    <lastmod>2019-06-06T09:13:29+00:00</lastmod>
+    <lastmod>2019-05-10T09:40:55+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mckjhd.github.io/pages/post/</loc>
-    <lastmod>2019-06-06T09:13:29+00:00</lastmod>
+    <lastmod>2019-05-10T09:40:55+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mckjhd.github.io/pages/tags/</loc>
-    <lastmod>2019-06-06T09:13:29+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mckjhd.github.io/pages/post/zero-trust-architecture/</loc>
-    <lastmod>2019-06-06T09:13:29+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mckjhd.github.io/pages/tags/security/</loc>
-    <lastmod>2019-06-06T09:13:29+00:00</lastmod>
+    <lastmod>2019-05-10T09:40:55+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -55,6 +44,12 @@
   
   <url>
     <loc>https://mckjhd.github.io/pages/tags/kubernetes/</loc>
+    <lastmod>2019-04-30T18:24:53+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mckjhd.github.io/pages/tags/security/</loc>
     <lastmod>2019-04-30T18:24:53+00:00</lastmod>
     <priority>0</priority>
   </url>
