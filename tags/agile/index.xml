@@ -6,10 +6,20 @@
     <description>Recent content in agile on Curated links collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 May 2019 09:40:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2019 14:05:21 +0000</lastBuildDate>
     
 	<atom:link href="https://mckjhd.github.io/pages/tags/agile/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to build good software</title>
+      <link>https://mckjhd.github.io/pages/post/how-to-build-good-software/</link>
+      <pubDate>Tue, 20 Aug 2019 14:05:21 +0000</pubDate>
+      
+      <guid>https://mckjhd.github.io/pages/post/how-to-build-good-software/</guid>
+      <description>https://www.csc.gov.sg/articles/how-to-build-good-software
+Software has characteristics that make it hard to build with traditional management techniques; effective development requires a different, more exploratory and iterative approach.</description>
+    </item>
     
     <item>
       <title>The Day I Lost my Most Creative Employee</title>

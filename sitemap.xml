@@ -3,21 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mckjhd.github.io/pages/tags/agile/</loc>
+    <lastmod>2019-08-20T14:05:21+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mckjhd.github.io/pages/</loc>
-    <lastmod>2019-06-12T07:13:29+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-08-20T14:05:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mckjhd.github.io/pages/tags/development/</loc>
+    <lastmod>2019-08-20T14:05:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mckjhd.github.io/pages/post/how-to-build-good-software/</loc>
+    <lastmod>2019-08-20T14:05:21+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://mckjhd.github.io/pages/post/</loc>
-    <lastmod>2019-06-12T07:13:29+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-08-20T14:05:21+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://mckjhd.github.io/pages/tags/</loc>
+    <lastmod>2019-08-20T14:05:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mckjhd.github.io/pages/tags/security/</loc>
     <lastmod>2019-06-12T07:13:29+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -26,26 +43,13 @@
   </url>
   
   <url>
-    <loc>https://mckjhd.github.io/pages/tags/security/</loc>
-    <lastmod>2019-06-12T07:13:29+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://mckjhd.github.io/pages/tags/teamwork/</loc>
+    <lastmod>2019-05-10T09:40:55+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://mckjhd.github.io/pages/post/the-day-i-lost-my-most-creative-employee/</loc>
     <lastmod>2019-05-10T09:40:55+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mckjhd.github.io/pages/tags/agile/</loc>
-    <lastmod>2019-05-10T09:40:55+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mckjhd.github.io/pages/tags/teamwork/</loc>
-    <lastmod>2019-05-10T09:40:55+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -56,18 +60,16 @@
   <url>
     <loc>https://mckjhd.github.io/pages/tags/kubernetes/</loc>
     <lastmod>2019-04-30T18:24:53+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mckjhd.github.io/pages/post/how-to-deliver-constructive-feedback/</loc>
-    <lastmod>2019-04-30T18:23:58+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://mckjhd.github.io/pages/tags/communication/</loc>
     <lastmod>2019-04-30T18:23:58+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mckjhd.github.io/pages/post/how-to-deliver-constructive-feedback/</loc>
+    <lastmod>2019-04-30T18:23:58+00:00</lastmod>
   </url>
   
   <url>
@@ -102,7 +104,6 @@
   
   <url>
     <loc>https://mckjhd.github.io/pages/categories/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
